@@ -1,0 +1,154 @@
+// .nav-bar {
+//     background: #000103;
+//     width: 60px;
+//     height: 100%;
+//     position: absolute;
+//     top: 0;
+//     z-index: 3;
+//     min-height: 500px;
+// }
+
+// h1 {
+//   color: black;
+// }
+
+// nav {
+//     display: block;
+//     text-align: center;
+//     position: absolute;
+//     // height: 210px;
+//     // top: 50%;
+//     // margin-top: -120px;
+//     // width: 100%;
+
+//     a {
+//       font-size: 22px;
+//       color: #333138;
+//       display: block;
+//       line-height: 51px;
+//       height: 51px;
+//       position: relative;
+//       text-decoration: none;
+
+//       i {
+//         transition: all 0.3s ease-out;
+//       }
+
+//       &:hover {
+//         color: #5EC2B7;
+
+//         svg {
+//           opacity: 0;
+//         }
+
+//         &:after {
+//           opacity: 1;
+//         }
+//       }
+
+//       &:after {
+//         content: '';
+//         font-size: 9px;
+//         letter-spacing: 2px;
+//         position: absolute;
+//         bottom: 0;
+//         display: block;
+//         width: 100%;
+//         text-align: center;
+//         opacity: 0;
+//         -webkit-transition: all 0.3s ease-out;
+//         transition: all 0.3s ease-out;
+//       }
+
+//       &:first-child {
+//         &::after {
+//           content: 'HOME';
+//         }
+//       }
+//     }
+
+//     a.about-link {
+//       &:after {
+//         content: 'ABOUT';
+//       }
+//     }
+
+//     a.contact-link {
+//       &:after {
+//         content: 'CONTACT';
+//       }
+//     }
+
+  
+//     a.resume-link {
+//       &:after {
+//         content: 'RESUME';
+//       }
+//     }
+
+//     a.github-link {
+//       &:after {
+//         content: 'GITHUB';
+//       }
+//     }
+
+//     a.linkedin-link {
+//       &:after {
+//         content: 'LINKEDIN';
+//       }
+//     }
+
+//     a.youtube-link {
+//       &:after {
+//         content: 'YOUTUBE';
+//       }
+//     }
+
+//     a.active {
+//       svg {
+//         color: #5EC2B7;
+//       }
+//     }
+//   }
+
+//   ul {
+//     position: absolute;
+//     bottom: 20px;
+//     width: 100%;
+//     display: block;
+//     padding: 0;
+//     list-style: none;
+//     text-align: center;
+//     margin: 0;
+
+//     li {
+//       a {
+//         padding: 7px 0;
+//         display: block;
+//         font-size: 15px;
+//         line-height: 16px;
+//         color: #4d4d4e;
+
+//         &:hover svg {
+//           color: #2C6E49;
+//         }
+//       }
+//     }
+//   }
+
+.site-layout-content {
+    min-height: 280px;
+    padding: 24px;
+    background: #fff;
+  }
+  #components-layout-demo-top .logo {
+    float: left;
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+    background: rgba(255, 255, 255, 0.3);
+  }
+  .ant-row-rtl #components-layout-demo-top .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+  }

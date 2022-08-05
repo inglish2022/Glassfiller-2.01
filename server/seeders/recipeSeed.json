@@ -1,0 +1,39 @@
+[
+    {
+        "title" : "Screwdriver",
+        "definition" : "Taste like oj",
+        "username" : "Horse Man",
+        "ingredients" : ["Orange Juice 1 oz", "Vodka 1 oz"]
+    },
+    {
+        "title" : "Old Fashion",
+        "definition" : "Classic",
+        "username" : "Horse Man",
+        "ingredients" : ["1 Sugar Cube", "4 Dashes of Angostura Bitters", "Dash of Soda Water", "Rye Whiskey 2 0z", "Orange twist", "Luxardo Cherry"]
+    },
+    {
+        "title" : "Improved Whiskey Cocktail",
+        "definition" : "This drink has been improved",
+        "username" : "Horse Man",
+        "ingredients" : ["1 Sugar Cube", "1 Dash of Peychaud's Bitters","2 Dashes Angostura Bitters", "1 Dash of Absinthe", "1 Bar Spoon Maraschino Liqueur", "Rye Whisky 2 oz", "Lemon Twist"]
+    },
+    {
+        "title" : "Brown Derby",
+        "definition" : "Watch the horses, see how they run",
+        "username" : "Horse Man",
+        "ingredients" : ["Grapefruit Juice 1 oz", "Honey Syrup .5 oz", "Rye Whiskey 2 oz"]
+    },
+    {
+        "title" : "Hot Toddy",
+        "definition" : "A great excuse to drink when you are sick",
+        "username" : "Horse Man",
+        "ingredients" : ["Honey Syrup .5 oz", "2 Dashes of Angostura Bitter", "Whiskey 2 oz", "Hot Water 4 oz", "Lemon Garnish" ]
+    },
+    {
+        "title" : "Bourbon Smash",
+        "definition" : "Oh yeah we Burbin",
+        "username" : "Horse Man",
+        "ingredients" : ["6 Mint Leaves", "4 Lemon Wedges", "1 Sugar Cube", "Bourbon 2 oz"]
+    }
+    
+]

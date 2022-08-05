@@ -1,0 +1,36 @@
+[
+    {
+        "username": "Horse Man",
+        "email": "horses@stable.com",
+        "password": "horsies",
+        "recipes": []
+    },
+    {
+        "username": "Caleb",
+        "email": "caleb@stable.com",
+        "password": "horsies",
+        "recipes": []
+      
+    },
+    {
+        "username": "Jason",
+        "email": "Jason@stable.com",
+        "password": "horsies",
+        "recipes": []
+       
+    },
+    {
+        "username": "Inglish",
+        "email": "Inglish@stable.com",
+        "password": "horsies",
+        "recipes": []
+        
+    },
+    {
+        "username": "Alex",
+        "email": "alex@stable.com",
+        "password": "horsies",
+        "recipes": []
+        
+    }
+]
